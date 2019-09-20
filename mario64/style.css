@@ -1,4 +1,4 @@
-body { font-family: monospace; }
+body { font-family: monospace; background-image: url("/mario64/m64images/background.png");}
 
 p.main {
 	margin-left: auto;
