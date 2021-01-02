@@ -1,0 +1,7 @@
+body { font-family: monospace; background-image: url("/mario64/m64images/background.png");}
+
+p.main {
+	margin-left: auto;
+	margin-right: auto;
+	width: 15em
+}
